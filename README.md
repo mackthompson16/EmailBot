@@ -8,3 +8,5 @@ I need to modify it to run on a pub/sub system eventually.
 4. Send response
 
    
+Inactive because API poll is too expensive on the current timer implementation, 
+However I can demonstrate that it does work in an interview or something.
